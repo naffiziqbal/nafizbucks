@@ -238,7 +238,7 @@ header ul li a:hover{
 
 }
 .div-4 img{
-    width: 698px;
+    width: 650px;
     height: 600px;
 }
 
@@ -358,6 +358,7 @@ footer{
 h5{
     text-align: start;
     align-items: flex-start;
+    margin-top:20px;
 }
 
 .abt,.careers,.social-impact,.partner,.order{
